@@ -112,10 +112,9 @@ NLP-OCR-Text-Summarizer/
 
     L’historique est stocké localement, mais peut être migré vers une base distante si besoin.
 
-🔗 Liens utiles
+## 🔗 Liens utiles
 
-    Hugging Face Models
+- [Hugging Face Models](https://huggingface.co/models) — Collection de modèles NLP et Transformers  
+- [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) — Outil open-source pour l’extraction de texte à partir d’images  
+- [Streamlit Documentation](https://docs.streamlit.io/) — Documentation officielle Streamlit pour créer des apps interactives
 
-Tesseract OCR
-
-Streamlit Documentation
