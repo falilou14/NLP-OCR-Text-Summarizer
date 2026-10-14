@@ -1,0 +1,20 @@
+/token
+
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+
+# Base de données locale -- contient potentiellement des données
+# personnelles réelles testées via l'OCR (nom, adresse...), ne doit
+# jamais être commitée. Incident réel : elle l'avait été par erreur
+# dès le premier commit -- historique git entièrement réécrit pour la
+# retirer (voir le commit "Clean start" après ce correctif).
+summaries.db
+
+# Artefact temporaire de l'upload d'image OCR -- jamais nettoyé par le
+# code (bug connu, à corriger), ne doit jamais être commité non plus.
+temp_uploaded_image.png

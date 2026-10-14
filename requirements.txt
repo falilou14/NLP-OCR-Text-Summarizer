@@ -1,0 +1,8 @@
+streamlit
+transformers
+torch                 # nécessaire pour la majorité des pipelines HF
+pytesseract
+Pillow
+sentencepiece         # parfois requis pour Marian
+spacy
+PyPDF2
